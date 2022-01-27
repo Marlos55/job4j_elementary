@@ -21,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="20bOX47u1PpIXHLqg4tpofQ9ngP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,26 +58,13 @@
       <recent name="ru.job4j" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fit (1)">
+  <component name="RunManager" selected="JUnit.FitTest.whenWoman170Then69">
     <configuration name="Fit (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prod.ru.job4j.condition.ru.job4j.calculator.Fit" />
       <module name="elementary" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="prod.ru.job4j.condition.ru.job4j.calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fit.Fit" />
-      <module name="elementary" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Fit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,6 +98,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FitTest.whenWoman170Then69" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elementary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prod.ru.job4j.condition.ru.job4j.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="prod.ru.job4j.condition.ru.job4j.calculator" />
+      <option name="MAIN_CLASS_NAME" value="prod.ru.job4j.condition.ru.job4j.calculator.FitTest" />
+      <option name="METHOD_NAME" value="whenWoman170Then69" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestTest.whenConvert140RblThen2Euro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="elementary" />
       <extension name="coverage">
@@ -139,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FitTest.whenWoman170Then69" />
         <item itemvalue="Application.Fit (1)" />
         <item itemvalue="Application.MathCalculator" />
         <item itemvalue="JUnit.TestTest.whenConvert140RblThen2Euro" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Fit" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643305291918</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2. Тесты для задачи &quot;идеальный вес&quot;2">
+      <created>1643305450496</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1643305450496</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
