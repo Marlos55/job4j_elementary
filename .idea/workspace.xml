@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25a58349-c447-47b5-b01b-36fef6d36249" name="Changes" comment="2. Тесты для задачи &quot;идеальный вес&quot;2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20bOX47u1PpIXHLqg4tpofQ9ngP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/ru/job4j" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/junit4.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.job4j.math" />
+      <recent name="ru.job4j" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="prod.ru.job4j.condition.ru.job4j.calculator" />
+      <recent name="" />
+      <recent name="src.ru.job4j" />
+      <recent name="ru.job4j" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Fit (1)">
+    <configuration name="Fit (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prod.ru.job4j.condition.ru.job4j.calculator.Fit" />
+      <module name="elementary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prod.ru.job4j.condition.ru.job4j.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fit.Fit" />
+      <module name="elementary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.calculator.MathCalculator" />
+      <module name="elementary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.job4j.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.converter.Test" />
+      <module name="elementary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.job4j.converter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTest.whenConvert140RblThen2Euro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elementary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.job4j.converter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.job4j.converter" />
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.converter.TestTest" />
+      <option name="METHOD_NAME" value="whenConvert140RblThen2Euro" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Fit (1)" />
+        <item itemvalue="Application.MathCalculator" />
+        <item itemvalue="JUnit.TestTest.whenConvert140RblThen2Euro" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Fit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25a58349-c447-47b5-b01b-36fef6d36249" name="Changes" comment="" />
+      <created>1636309875340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636309875340</updated>
+    </task>
+    <task id="LOCAL-00001" summary="3.2. Загрузка файлов на github [#243562]">
+      <created>1636311500679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636311500679</updated>
+    </task>
+    <task id="LOCAL-00002" summary="3.3. Фиксация изменений на github [#243564]">
+      <created>1636654082297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636654082297</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3.3. Фиксация изменений на github [#243564]">
+      <created>1636654511538</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636654511538</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4.2. Заголовок в файле java [#159036 #22356]">
+      <created>1636743549996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636743549996</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4.2. Заголовок в файле java [#159036 #22356]">
+      <created>1636744728336</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636744728336</updated>
+    </task>
+    <task id="LOCAL-00006" summary="5. Конвертер валюты">
+      <created>1637347821437</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637347821437</updated>
+    </task>
+    <task id="LOCAL-00007" summary="6. Идеальный вес">
+      <created>1637348946197</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637348946197</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Test">
+      <created>1639591281466</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1639591281466</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Test">
+      <created>1639591320557</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1639591320557</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Test">
+      <created>1643284377696</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1643284377696</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2. Тесты для задачи &quot;идеальный вес&quot;">
+      <created>1643284473346</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1643284473346</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Converter">
+      <created>1643285860433</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1643285860433</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ru.job4j.math">
+      <created>1643285891033</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1643285891033</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2. Тесты для задачи &quot;идеальный вес&quot;">
+      <created>1643287250566</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1643287250566</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2. Тесты для задачи &quot;идеальный вес&quot;2">
+      <created>1643287889648</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1643287889648</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2. Тесты для задачи &quot;идеальный вес&quot;2">
+      <created>1643305291918</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1643305291918</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3.2. Загрузка файлов на github [#243562]" />
+    <MESSAGE value="3.3. Фиксация изменений на github [#243564]" />
+    <MESSAGE value="4.2. Заголовок в файле java [#159036 #22356]" />
+    <MESSAGE value="0. Что такое переменная." />
+    <MESSAGE value="3 умнажение деление" />
+    <MESSAGE value="5. Конвертер валюты" />
+    <MESSAGE value="6. Идеальный вес" />
+    <MESSAGE value="6. Point.java" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Converter" />
+    <MESSAGE value="ru.job4j.math" />
+    <MESSAGE value="2. Тесты для задачи &quot;идеальный вес&quot;" />
+    <MESSAGE value="2. Тесты для задачи &quot;идеальный вес&quot;2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2. Тесты для задачи &quot;идеальный вес&quot;2" />
+  </component>
+</project>
