@@ -1,4 +1,4 @@
-package AlertDivByZero.ru.job4j;
+package AlertDivByZero;
 
 public class condition {
     public static void main(String[] args) {
